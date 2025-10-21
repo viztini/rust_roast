@@ -15,7 +15,7 @@ To install `rust_roast`:
 1.  **Install Rust:** If you don't have Rust installed, follow the instructions at [https://rustup.rs/](https://rustup.rs/).
 2.  **Clone the GitHub repository:**
     ```bash
-    git clone https://github.com/viztinirust_roast.git
+    git clone https://github.com/viztini/rust_roast.git
     ```
 3.  **Change into the project directory:**
     ```bash

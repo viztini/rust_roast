@@ -21,7 +21,11 @@ To install `rust_roast`:
     ```bash
     cd rust_roast
     ```
-4.  **Run the installation script:**
+4.  **Make the installation script executable:**
+    ```bash
+    chmod +x install.sh
+    ```
+5.  **Run the installation script:**
     ```bash
     ./install.sh
     ```
